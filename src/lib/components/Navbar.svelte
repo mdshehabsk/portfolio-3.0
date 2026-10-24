@@ -22,7 +22,7 @@
 
 <header
   class="fixed inset-x-0 top-0 z-50 transition-all duration-300 {scrolled
-    ? 'border-b border-white/5 bg-base/80 backdrop-blur-md'
+    ? 'border-b border-white/5 bg-base/80 backdrop-blur-3xl'
     : 'border-b border-transparent'}"
 >
   <nav class="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-10">

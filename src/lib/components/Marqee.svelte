@@ -77,6 +77,8 @@
 <style>
   .marquee-track {
     animation: marquee 30s linear infinite;
+    will-change: transform;
+    backface-visibility: hidden;
   }
 
   .marquee-track.paused {
